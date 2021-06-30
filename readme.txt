@@ -16,5 +16,5 @@ birthdays.py - program file
 bdays.txt - list of names which is used to find birthdays (file can be edited)
 bdays.json - dictionary of saved names and birthdays which is automatically loaded upon starting the program
 bdays.html - file created after confirming option to plot a histogram and presents distributions of birthdays per months 
-help.txt - this file
+readme.txt - this file
 requirements.txt - required packages for the program
