@@ -4,9 +4,12 @@ This program is built to find famous people birthdays, create database, count ho
 
 
 List of options:
+
 View All - list whole database in Results box where each entry can be selected
+
 Add from List - read names from 'Enter list..' box and try to retrieve their birthdays from Wikipedia
 Names in the list should be entered one below another and they're not case or space sensitive.
+
 Add Manually - insert data from fields: Name, Day, Month and Year to a database
 Selected entries in Results box can also be updated with this option.
 
